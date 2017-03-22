@@ -64,14 +64,14 @@ p {
 	
 #contain {
 
-	width:750px;
+	width:60%;
 	margin-left:auto;
 	margin-right:auto;
 	background: #FFF ;
         }
 	
 #header {
-	width:750px;
+	width:60%;
     height:75px;
 	border-bottom:1px solid #CCC;
 	
@@ -96,7 +96,7 @@ p {
 #content {
 
 	margin-left:190px;
-	width:600px
+	
 
 }
 
@@ -105,6 +105,11 @@ p {
 	padding:3px 18px 3px 18px;
 	margin:0;
 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 #footer {
